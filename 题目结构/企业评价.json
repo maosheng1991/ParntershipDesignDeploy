@@ -1,0 +1,772 @@
+[
+  {
+    "PK_TID": "",
+    "TopicType": 1,
+    "TName": "",
+    "Prompt": "请填写办理事项(选填)",
+    "IsRequired": true,
+    "Option": [],
+    "UserValue": ""
+  },
+  {
+    "PK_TID": "",
+    "TopicType": 0,
+    "TName": "请对大厅综合管理进行评价",
+    "Prompt": "",
+    "IsRequired": true,
+    "Option": [
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate1.png",
+        "OName": "不满意",
+        "IsShowOName": true,
+        "IsShowOICO": true,
+        "Prompt": "",
+        "OValue": 1,
+        "IsUserInput": false,
+        "YawpOption": [
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "大厅环境卫生差"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "设施摆放杂乱"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "大厅空气质量差"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "办事指引不清晰"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "排队叫号管理混乱"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "公共区域服务差"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "群众休息区缺乏"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "便民设施缺乏"
+          },
+          {
+            "PK_YOID": "",
+            "InputType": 0,
+            "IsUserInput": true,
+            "Prompt": "其他问题描述",
+            "YOName": "其它问题"
+          }
+        ]
+      },
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate2.png",
+        "OName": "一般",
+        "IsShowOName": true,
+        "IsShowOICO": true,
+        "OValue": 2,
+        "IsUserInput": false,
+        "Prompt": "",
+        "YawpOption": [
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "大厅环境卫生差"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "设施摆放杂乱"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "大厅空气质量差"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "办事指引不清晰"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "排队叫号管理混乱"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "公共区域服务差"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "群众休息区缺乏"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "便民设施缺乏"
+          },
+          {
+            "PK_YOID": "",
+            "InputType": 0,
+            "IsUserInput": true,
+            "Prompt": "其他问题描述",
+            "YOName": "其它问题"
+          }
+        ]
+      },
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate3.png",
+        "OName": "满意",
+        "IsShowOName": true,
+        "IsShowOICO": true,
+        "OValue": 3,
+        "IsUserInput": false,
+        "Prompt": "",
+        "YawpOption": []
+      },
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate4.png",
+        "OName": "非常满意",
+        "IsShowOName": true,
+        "IsShowOICO": true,
+        "OValue": 4,
+        "IsUserInput": false,
+        "Prompt": "",
+        "YawpOption": []
+      }
+    ],
+    "UserValue": ""
+  },
+  {
+    "PK_TID": "",
+    "TopicType": 0,
+    "TName": "请对窗口人员服务进行评价",
+    "Prompt": "",
+    "IsRequired": true,
+    "Option": [
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate1.png",
+        "OName": "不满意",
+        "IsShowOICO": true,
+        "IsShowOName": true,
+        "Prompt": "请输入为您服务的窗口编号",
+        "OValue": 1,
+        "InputType": 2,
+        "IsUserInput": true,
+        "YawpOption": [
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "未一次性告知"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "服务态度差"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "服务专业性弱"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "服务效率低下"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "仪容仪表不规范"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "不用文明用语"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "窗口不清洁"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "工作状态差"
+          },
+          {
+            "PK_YOID": "",
+            "InputType": 0,
+            "IsUserInput": true,
+            "Prompt": "其他问题描述",
+            "YOName": "其它问题"
+          }
+        ]
+      },
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate2.png",
+        "OName": "一般",
+        "IsShowOICO": true,
+        "IsShowOName": true,
+        "OValue": 2,
+        "InputType": 2,
+        "IsUserInput": true,
+        "Prompt": "请输入为您服务的窗口编号",
+        "YawpOption": [
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "未一次性告知"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "服务态度差"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "服务专业性弱"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "服务效率低下"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "仪容仪表不规范"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "不用文明用语"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "窗口不清洁"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "工作状态差"
+          },
+          {
+            "PK_YOID": "",
+            "InputType": 0,
+            "IsUserInput": true,
+            "Prompt": "其他问题描述",
+            "YOName": "其它问题"
+          }
+        ]
+      },
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate3.png",
+        "OName": "满意",
+        "IsShowOICO": true,
+        "IsShowOName": true,
+        "OValue": 3,
+        "IsUserInput": false,
+        "Prompt": "",
+        "YawpOption": []
+      },
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate4.png",
+        "OName": "非常满意",
+        "IsShowOICO": true,
+        "IsShowOName": true,
+        "OValue": 4,
+        "IsUserInput": false,
+        "Prompt": "",
+        "YawpOption": []
+      }
+    ],
+    "UserValue": ""
+  },
+  {
+    "PK_TID": "",
+    "TopicType": 0,
+    "TName": "请对服务过程进行评价",
+    "Prompt": "",
+    "IsRequired": true,
+    "Option": [
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate1.png",
+        "OName": "不满意",
+        "IsShowOName": true,
+        "IsShowOICO": true,
+        "Prompt": "",
+        "OValue": 1,
+        "IsUserInput": false,
+        "YawpOption": [
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "收费不合理"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "自助服务效果差"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "等候时间长"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "流程办理时限长"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "网上办理不通畅"
+          },
+          {
+            "PK_YOID": "",
+            "InputType": 0,
+            "IsUserInput": true,
+            "Prompt": "您的反馈会督促我们做的更好",
+            "YOName": "其它问题"
+          }
+        ]
+      },
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate2.png",
+        "OName": "一般",
+        "IsShowOName": true,
+        "IsShowOICO": true,
+        "OValue": 2,
+        "IsUserInput": false,
+        "Prompt": "",
+        "YawpOption": [
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "收费不合理"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "自助服务效果差"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "等候时间长"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "流程办理时限长"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "网上办理不通畅"
+          },
+          {
+            "PK_YOID": "",
+            "InputType": 0,
+            "IsUserInput": true,
+            "Prompt": "您的反馈会督促我们做的更好",
+            "YOName": "其它问题"
+          }
+        ]
+      },
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate3.png",
+        "OName": "满意",
+        "IsShowOName": true,
+        "IsShowOICO": true,
+        "OValue": 3,
+        "IsUserInput": false,
+        "Prompt": "",
+        "YawpOption": []
+      },
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate4.png",
+        "OName": "非常满意",
+        "IsShowOName": true,
+        "IsShowOICO": true,
+        "OValue": 4,
+        "IsUserInput": false,
+        "Prompt": "",
+        "YawpOption": []
+      }
+    ],
+    "UserValue": ""
+  },
+  {
+    "PK_TID": "",
+    "TopicType": 0,
+    "TName": "请对服务效果进行评价",
+    "Prompt": "",
+    "IsRequired": true,
+    "Option": [
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate1.png",
+        "OName": "未能顺利办成",
+        "IsShowOName": true,
+        "IsShowOICO": true,
+        "Prompt": "未能顺利办成的原因",
+        "OValue": 1,
+        "InputType": 0,
+        "IsUserInput": true,
+        "YawpOption": []
+      },
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate4.png",
+        "OName": "顺利办成",
+        "IsShowOName": true,
+        "IsShowOICO": true,
+        "OValue": 4,
+        "IsUserInput": false,
+        "Prompt": "",
+        "YawpOption": []
+      }
+    ],
+    "UserValue": ""
+  },
+  {
+    "PK_TID": "",
+    "TopicType": 3,
+    "TName": "办理本项事务，您一共跑了几次？",
+    "Prompt": "",
+    "IsRequired": true,
+    "Option": [
+      {
+        "PK_OID": "",
+        "OType": 1,
+        "OICO": "",
+        "OName": "一次",
+        "IsShowOName": true,
+        "IsShowOICO": false,
+        "Prompt": "",
+        "OValue": 1,
+        "IsUserInput": false,
+        "YawpOption": []
+      },
+      {
+        "PK_OID": "",
+        "OType": 1,
+        "OICO": "",
+        "OName": "二次",
+        "OValue": 2,
+        "YawpOption": [],
+        "IsUserInput": false,
+        "OptionPrompt": ""
+      },
+      {
+        "PK_OID": "",
+        "OType": 1,
+        "OICO": "",
+        "OName": "三次",
+        "OValue": 3,
+        "YawpOption": [],
+        "IsUserInput": false,
+        "OptionPrompt": ""
+      },
+      {
+        "PK_OID": "",
+        "OType": 1,
+        "OICO": "",
+        "OName": "四次或以上",
+        "OValue": 4,
+        "YawpOption": [],
+        "IsUserInput": false,
+        "OptionPrompt": ""
+      }
+    ],
+    "UserValue": ""
+  },
+  {
+    "PK_TID": "",
+    "TopicType": 0,
+    "TName": "请对该部门电话咨询服务进行评价",
+    "Prompt": "",
+    "IsRequired": true,
+    "Option": [
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate1.png",
+        "OName": "不满意",
+        "IsShowOName": false,
+        "IsShowOICO": true,
+        "Prompt": "",
+        "OValue": 1,
+        "IsUserInput": false,
+        "YawpOption": [
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "电话难接通"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "接听用语不规范"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "缺乏基础服务意识"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "服务不专业"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "未能一次性告知"
+          },
+          {
+            "PK_YOID": "",
+            "InputType": 0,
+            "IsUserInput": true,
+            "Prompt": "其他问题描述",
+            "YOName": "其它问题"
+          }
+        ]
+      },
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate2.png",
+        "OName": "一般",
+        "IsShowOName": false,
+        "IsShowOICO": true,
+        "OValue": 2,
+        "IsUserInput": false,
+        "Prompt": "",
+        "YawpOption": [
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "电话难接通"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "接听用语不规范"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "缺乏基础服务意识"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "服务不专业"
+          },
+          {
+            "PK_YOID": "",
+            "IsUserInput": false,
+            "Prompt": "",
+            "YOName": "未能一次性告知"
+          },
+          {
+            "PK_YOID": "",
+            "InputType": 0,
+            "IsUserInput": true,
+            "Prompt": "其他问题描述",
+            "YOName": "其它问题"
+          }
+        ]
+      },
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate3.png",
+        "OName": "满意",
+        "IsShowOName": false,
+        "IsShowOICO": true,
+        "OValue": 3,
+        "IsUserInput": false,
+        "Prompt": "",
+        "YawpOption": []
+      },
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate4.png",
+        "OName": "非常满意",
+        "IsShowOName": false,
+        "IsShowOICO": true,
+        "OValue": 4,
+        "IsUserInput": false,
+        "Prompt": "",
+        "YawpOption": []
+      },
+      {
+        "PK_OID": "",
+        "OType": 0,
+        "OICO": "https://design.cntadata.com/Resources/img/move/rate5.png",
+        "OName": "不清楚",
+        "IsShowOName": false,
+        "IsShowOICO": true,
+        "OValue": 5,
+        "IsUserInput": false,
+        "Prompt": "",
+        "YawpOption": []
+      }
+    ],
+    "UserValue": ""
+  },
+  {
+    "PK_TID": "",
+    "TopicType": 1,
+    "TName": "群众之声",
+    "Prompt": "您的意见或者建议让我们服务更好",
+    "IsRequired": true,
+    "Option": [],
+    "UserValue": ""
+  },
+  {
+    "PK_TID": "",
+    "TopicType": 3,
+    "TName": "办理业务类型",
+    "Prompt": "",
+    "IsRequired": true,
+    "Option": [
+      {
+        "PK_OID": "",
+        "OType": 1,
+        "OICO": "",
+        "OName": "个人业务",
+        "IsShowOName": true,
+        "IsShowOICO": false,
+        "OValue": 0,
+        "Prompt": "",
+        "YawpOption": [],
+        "IsUserInput": false
+      },
+      {
+        "PK_OID": "",
+        "OType": 1,
+        "OICO": "",
+        "OName": "企业业务",
+        "IsShowOName": true,
+        "IsShowOICO": false,
+        "OValue": 1,
+        "Prompt": "",
+        "YawpOption": [],
+        "IsUserInput": false
+      }
+    ],
+    "UserValue": ""
+  },
+  {
+    "PK_TID": "",
+    "TopicType": 5,
+    "TName": "上传视频(选填)",
+    "Prompt": "点击上传视频",
+    "IsRequired": false,
+    "Option": [],
+    "UserValue": ""
+  }
+]
