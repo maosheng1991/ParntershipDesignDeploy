@@ -5,8 +5,12 @@
   "DayCount": 999,
   "ProvideTimeScope": [
     {
-      "BeginTime": "00:00:00",
-      "EndTime": "23:59:59"
+      "BeginTime": "09:00:00",
+      "EndTime": "12:00:00"
+    },
+    {
+      "BeginTime": "14:00:00",
+      "EndTime": "17:00:00"
     }
   ]
 }
