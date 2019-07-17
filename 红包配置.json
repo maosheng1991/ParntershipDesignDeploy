@@ -2,10 +2,11 @@
   "IsSend": true,
   "MinAmount": 100,
   "MaxAmount": 150,
+  "DayCount": 999,
   "ProvideTimeScope": [
     {
       "BeginTime": "00:00:00",
-      "EndTime": "14:00:00"
+      "EndTime": "23:59:59"
     }
   ]
 }
