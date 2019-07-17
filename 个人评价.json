@@ -1,9 +1,9 @@
-[
+ï»¿[
   {
     "PK_TID": "",
     "TopicType": 1,
     "TName": "",
-    "Prompt": "ÇëÌîĞ´°ìÀíÊÂÏîµÄÃû³Æ(Ñ¡Ìî)",
+    "Prompt": "è¯·å¡«å†™åŠç†äº‹é¡¹çš„åç§°(é€‰å¡«)",
     "IsRequired": true,
     "Option": [],
     "UserValue": ""
@@ -11,7 +11,7 @@
   {
     "PK_TID": "",
     "TopicType": 0,
-    "TName": "Çë¶Ô±¾´Î·şÎñ×ö³öÆÀ¼Û",
+    "TName": "è¯·å¯¹æœ¬æ¬¡æœåŠ¡åšå‡ºè¯„ä»·",
     "Prompt": "",
     "IsRequired": true,
     "Option": [
@@ -19,7 +19,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate1.png",
-        "OName": "²»ÂúÒâ",
+        "OName": "ä¸æ»¡æ„",
         "IsShowOName": true,
         "IsShowOICO": true,
         "Prompt": "",
@@ -30,50 +30,50 @@
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "·şÎñÌ¬¶È²î"
+            "YOName": "æœåŠ¡æ€åº¦å·®"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "³ÔÄÃ¿¨Òª"
+            "YOName": "åƒæ‹¿å¡è¦"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "ÍÆÚÃ"
+            "YOName": "æ¨è¯¿"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "·şÎñ¼¼ÄÜ²î"
+            "YOName": "æœåŠ¡æŠ€èƒ½å·®"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "ÒÇÈİÒÇ±í²»¹æ·¶"
+            "YOName": "ä»ªå®¹ä»ªè¡¨ä¸è§„èŒƒ"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "·şÎñ»·¾³ÔàÂÒ"
+            "YOName": "æœåŠ¡ç¯å¢ƒè„ä¹±"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "²»ÎÄÃ÷ÓÃÓï"
+            "YOName": "ä¸æ–‡æ˜ç”¨è¯­"
           },
           {
             "PK_YOID": "",
             "InputType": 0,
             "IsUserInput": true,
-            "Prompt": "ÆäËûÎÊÌâÃèÊö",
-            "YOName": "ÆäËüÎÊÌâ"
+            "Prompt": "å…¶ä»–é—®é¢˜æè¿°",
+            "YOName": "å…¶å®ƒé—®é¢˜"
           }
         ]
       },
@@ -81,7 +81,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate2.png",
-        "OName": "Ò»°ã",
+        "OName": "ä¸€èˆ¬",
         "IsShowOName": true,
         "IsShowOICO": true,
         "OValue": 2,
@@ -92,50 +92,50 @@
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "·şÎñÌ¬¶È²î"
+            "YOName": "æœåŠ¡æ€åº¦å·®"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "³ÔÄÃ¿¨Òª"
+            "YOName": "åƒæ‹¿å¡è¦"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "ÍÆÚÃ"
+            "YOName": "æ¨è¯¿"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "·şÎñ¼¼ÄÜ²î"
+            "YOName": "æœåŠ¡æŠ€èƒ½å·®"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "ÒÇÈİÒÇ±í²»¹æ·¶"
+            "YOName": "ä»ªå®¹ä»ªè¡¨ä¸è§„èŒƒ"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "·şÎñ»·¾³ÔàÂÒ"
+            "YOName": "æœåŠ¡ç¯å¢ƒè„ä¹±"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "²»ÎÄÃ÷ÓÃÓï"
+            "YOName": "ä¸æ–‡æ˜ç”¨è¯­"
           },
           {
             "PK_YOID": "",
             "InputType": 0,
             "IsUserInput": true,
-            "Prompt": "ÆäËûÎÊÌâÃèÊö",
-            "YOName": "ÆäËüÎÊÌâ"
+            "Prompt": "å…¶ä»–é—®é¢˜æè¿°",
+            "YOName": "å…¶å®ƒé—®é¢˜"
           }
         ]
       },
@@ -143,7 +143,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate3.png",
-        "OName": "ÂúÒâ",
+        "OName": "æ»¡æ„",
         "IsShowOName": true,
         "IsShowOICO": true,
         "OValue": 3,
@@ -155,7 +155,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate4.png",
-        "OName": "·Ç³£ÂúÒâ",
+        "OName": "éå¸¸æ»¡æ„",
         "IsShowOName": true,
         "IsShowOICO": true,
         "OValue": 4,
@@ -169,7 +169,7 @@
   {
     "PK_TID": "",
     "TopicType": 0,
-    "TName": "Çë¶Ô·şÎñĞ§¹û½øĞĞÆÀ¼Û",
+    "TName": "è¯·å¯¹æœåŠ¡æ•ˆæœè¿›è¡Œè¯„ä»·",
     "Prompt": "",
     "IsRequired": true,
     "Option": [
@@ -177,10 +177,10 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate1.png",
-        "OName": "Î´ÄÜË³Àû°ì³É",
+        "OName": "æœªèƒ½é¡ºåˆ©åŠæˆ",
         "IsShowOName": true,
         "IsShowOICO": true,
-        "Prompt": "Î´ÄÜË³Àû°ì³ÉµÄÔ­Òò",
+        "Prompt": "æœªèƒ½é¡ºåˆ©åŠæˆçš„åŸå› ",
         "OValue": 1,
         "InputType": 0,
         "IsUserInput": true,
@@ -190,7 +190,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate4.png",
-        "OName": "Ë³Àû°ì³É",
+        "OName": "é¡ºåˆ©åŠæˆ",
         "IsShowOName": true,
         "IsShowOICO": true,
         "OValue": 4,
@@ -204,7 +204,7 @@
   {
     "PK_TID": "",
     "TopicType": 0,
-    "TName": "Çë¶Ô·şÎñ¹ı³Ì½øĞĞÆÀ¼Û",
+    "TName": "è¯·å¯¹æœåŠ¡è¿‡ç¨‹è¿›è¡Œè¯„ä»·",
     "Prompt": "",
     "IsRequired": true,
     "Option": [
@@ -212,7 +212,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate1.png",
-        "OName": "²»ÂúÒâ",
+        "OName": "ä¸æ»¡æ„",
         "IsShowOName": true,
         "IsShowOICO": true,
         "Prompt": "",
@@ -223,38 +223,38 @@
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "ÊÕ·Ñ²»ºÏÀí"
+            "YOName": "æ”¶è´¹ä¸åˆç†"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "×ÔÖú·şÎñĞ§¹û²î"
+            "YOName": "è‡ªåŠ©æœåŠ¡æ•ˆæœå·®"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "µÈºòÊ±¼ä³¤"
+            "YOName": "ç­‰å€™æ—¶é—´é•¿"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "Á÷³Ì°ìÀíÊ±ÏŞ³¤"
+            "YOName": "æµç¨‹åŠç†æ—¶é™é•¿"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "ÍøÉÏ°ìÀí²»Í¨³©"
+            "YOName": "ç½‘ä¸ŠåŠç†ä¸é€šç•…"
           },
           {
             "PK_YOID": "",
             "InputType": 0,
             "IsUserInput": true,
-            "Prompt": "ÄúµÄ·´À¡»á¶½´ÙÎÒÃÇ×öµÄ¸üºÃ",
-            "YOName": "ÆäËüÎÊÌâ"
+            "Prompt": "æ‚¨çš„åé¦ˆä¼šç£ä¿ƒæˆ‘ä»¬åšçš„æ›´å¥½",
+            "YOName": "å…¶å®ƒé—®é¢˜"
           }
         ]
       },
@@ -262,7 +262,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate2.png",
-        "OName": "Ò»°ã",
+        "OName": "ä¸€èˆ¬",
         "IsShowOName": true,
         "IsShowOICO": true,
         "OValue": 2,
@@ -273,38 +273,38 @@
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "ÊÕ·Ñ²»ºÏÀí"
+            "YOName": "æ”¶è´¹ä¸åˆç†"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "×ÔÖú·şÎñĞ§¹û²î"
+            "YOName": "è‡ªåŠ©æœåŠ¡æ•ˆæœå·®"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "µÈºòÊ±¼ä³¤"
+            "YOName": "ç­‰å€™æ—¶é—´é•¿"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "Á÷³Ì°ìÀíÊ±ÏŞ³¤"
+            "YOName": "æµç¨‹åŠç†æ—¶é™é•¿"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "ÍøÉÏ°ìÀí²»Í¨³©"
+            "YOName": "ç½‘ä¸ŠåŠç†ä¸é€šç•…"
           },
           {
             "PK_YOID": "",
             "InputType": 0,
             "IsUserInput": true,
-            "Prompt": "ÄúµÄ·´À¡»á¶½´ÙÎÒÃÇ×öµÄ¸üºÃ",
-            "YOName": "ÆäËüÎÊÌâ"
+            "Prompt": "æ‚¨çš„åé¦ˆä¼šç£ä¿ƒæˆ‘ä»¬åšçš„æ›´å¥½",
+            "YOName": "å…¶å®ƒé—®é¢˜"
           }
         ]
       },
@@ -312,7 +312,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate3.png",
-        "OName": "ÂúÒâ",
+        "OName": "æ»¡æ„",
         "IsShowOName": true,
         "IsShowOICO": true,
         "OValue": 3,
@@ -324,7 +324,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate4.png",
-        "OName": "·Ç³£ÂúÒâ",
+        "OName": "éå¸¸æ»¡æ„",
         "IsShowOName": true,
         "IsShowOICO": true,
         "OValue": 4,
@@ -338,7 +338,7 @@
   {
     "PK_TID": "",
     "TopicType": 3,
-    "TName": "°ìÀí±¾ÏîÊÂÎñ£¬ÄúÒ»¹²ÅÜÁË¼¸´Î£¿",
+    "TName": "åŠç†æœ¬é¡¹äº‹åŠ¡ï¼Œæ‚¨ä¸€å…±è·‘äº†å‡ æ¬¡ï¼Ÿ",
     "Prompt": "",
     "IsRequired": true,
     "Option": [
@@ -346,7 +346,7 @@
         "PK_OID": "",
         "OType": 1,
         "OICO": "",
-        "OName": "Ò»´Î",
+        "OName": "ä¸€æ¬¡",
         "IsShowOName": true,
         "IsShowOICO": false,
         "Prompt": "",
@@ -358,7 +358,7 @@
         "PK_OID": "",
         "OType": 1,
         "OICO": "",
-        "OName": "¶ş´Î",
+        "OName": "äºŒæ¬¡",
         "OValue": 2,
         "YawpOption": [],
         "IsUserInput": false,
@@ -368,7 +368,7 @@
         "PK_OID": "",
         "OType": 1,
         "OICO": "",
-        "OName": "Èı´Î",
+        "OName": "ä¸‰æ¬¡",
         "OValue": 3,
         "YawpOption": [],
         "IsUserInput": false,
@@ -378,7 +378,7 @@
         "PK_OID": "",
         "OType": 1,
         "OICO": "",
-        "OName": "ËÄ´Î»òÒÔÉÏ",
+        "OName": "å››æ¬¡æˆ–ä»¥ä¸Š",
         "OValue": 4,
         "YawpOption": [],
         "IsUserInput": false,
@@ -390,7 +390,7 @@
   {
     "PK_TID": "",
     "TopicType": 0,
-    "TName": "Çë¶Ô´óÌü×ÛºÏ¹ÜÀí½øĞĞÆÀ¼Û",
+    "TName": "è¯·å¯¹å¤§å…ç»¼åˆç®¡ç†è¿›è¡Œè¯„ä»·",
     "Prompt": "",
     "IsRequired": true,
     "Option": [
@@ -398,7 +398,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate1.png",
-        "OName": "²»ÂúÒâ",
+        "OName": "ä¸æ»¡æ„",
         "IsShowOName": true,
         "IsShowOICO": true,
         "Prompt": "",
@@ -409,56 +409,56 @@
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "´óÌü»·¾³ÎÀÉú²î"
+            "YOName": "å¤§å…ç¯å¢ƒå«ç”Ÿå·®"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "ÉèÊ©°Ú·ÅÔÓÂÒ"
+            "YOName": "è®¾æ–½æ‘†æ”¾æ‚ä¹±"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "´óÌü¿ÕÆøÖÊÁ¿²î"
+            "YOName": "å¤§å…ç©ºæ°”è´¨é‡å·®"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "°ìÊÂÖ¸Òı²»ÇåÎú"
+            "YOName": "åŠäº‹æŒ‡å¼•ä¸æ¸…æ™°"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "ÅÅ¶Ó½ĞºÅ¹ÜÀí»ìÂÒ"
+            "YOName": "æ’é˜Ÿå«å·ç®¡ç†æ··ä¹±"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "¹«¹²ÇøÓò·şÎñ²î"
+            "YOName": "å…¬å…±åŒºåŸŸæœåŠ¡å·®"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "ÈºÖÚĞİÏ¢ÇøÈ±·¦"
+            "YOName": "ç¾¤ä¼—ä¼‘æ¯åŒºç¼ºä¹"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "±ãÃñÉèÊ©È±·¦"
+            "YOName": "ä¾¿æ°‘è®¾æ–½ç¼ºä¹"
           },
           {
             "PK_YOID": "",
             "InputType": 0,
             "IsUserInput": true,
-            "Prompt": "ÆäËûÎÊÌâÃèÊö",
-            "YOName": "ÆäËüÎÊÌâ"
+            "Prompt": "å…¶ä»–é—®é¢˜æè¿°",
+            "YOName": "å…¶å®ƒé—®é¢˜"
           }
         ]
       },
@@ -466,7 +466,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate2.png",
-        "OName": "Ò»°ã",
+        "OName": "ä¸€èˆ¬",
         "IsShowOName": true,
         "IsShowOICO": true,
         "OValue": 2,
@@ -477,56 +477,56 @@
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "´óÌü»·¾³ÎÀÉú²î"
+            "YOName": "å¤§å…ç¯å¢ƒå«ç”Ÿå·®"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "ÉèÊ©°Ú·ÅÔÓÂÒ"
+            "YOName": "è®¾æ–½æ‘†æ”¾æ‚ä¹±"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "´óÌü¿ÕÆøÖÊÁ¿²î"
+            "YOName": "å¤§å…ç©ºæ°”è´¨é‡å·®"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "°ìÊÂÖ¸Òı²»ÇåÎú"
+            "YOName": "åŠäº‹æŒ‡å¼•ä¸æ¸…æ™°"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "ÅÅ¶Ó½ĞºÅ¹ÜÀí»ìÂÒ"
+            "YOName": "æ’é˜Ÿå«å·ç®¡ç†æ··ä¹±"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "¹«¹²ÇøÓò·şÎñ²î"
+            "YOName": "å…¬å…±åŒºåŸŸæœåŠ¡å·®"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "ÈºÖÚĞİÏ¢ÇøÈ±·¦"
+            "YOName": "ç¾¤ä¼—ä¼‘æ¯åŒºç¼ºä¹"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "±ãÃñÉèÊ©È±·¦"
+            "YOName": "ä¾¿æ°‘è®¾æ–½ç¼ºä¹"
           },
           {
             "PK_YOID": "",
             "InputType": 0,
             "IsUserInput": true,
-            "Prompt": "ÆäËûÎÊÌâÃèÊö",
-            "YOName": "ÆäËüÎÊÌâ"
+            "Prompt": "å…¶ä»–é—®é¢˜æè¿°",
+            "YOName": "å…¶å®ƒé—®é¢˜"
           }
         ]
       },
@@ -534,7 +534,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate3.png",
-        "OName": "ÂúÒâ",
+        "OName": "æ»¡æ„",
         "IsShowOName": true,
         "IsShowOICO": true,
         "OValue": 3,
@@ -546,7 +546,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate4.png",
-        "OName": "·Ç³£ÂúÒâ",
+        "OName": "éå¸¸æ»¡æ„",
         "IsShowOName": true,
         "IsShowOICO": true,
         "OValue": 4,
@@ -560,7 +560,7 @@
   {
     "PK_TID": "",
     "TopicType": 0,
-    "TName": "Çë¶Ô¸Ã²¿ÃÅµç»°×ÉÑ¯·şÎñ½øĞĞÆÀ¼Û",
+    "TName": "è¯·å¯¹è¯¥éƒ¨é—¨ç”µè¯å’¨è¯¢æœåŠ¡è¿›è¡Œè¯„ä»·",
     "Prompt": "",
     "IsRequired": true,
     "Option": [
@@ -568,7 +568,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate1.png",
-        "OName": "²»ÂúÒâ",
+        "OName": "ä¸æ»¡æ„",
         "IsShowOName": true,
         "IsShowOICO": true,
         "Prompt": "",
@@ -579,38 +579,38 @@
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "µç»°ÄÑ½ÓÍ¨"
+            "YOName": "ç”µè¯éš¾æ¥é€š"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "½ÓÌıÓÃÓï²»¹æ·¶"
+            "YOName": "æ¥å¬ç”¨è¯­ä¸è§„èŒƒ"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "È±·¦»ù´¡·şÎñÒâÊ¶"
+            "YOName": "ç¼ºä¹åŸºç¡€æœåŠ¡æ„è¯†"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "·şÎñ²»×¨Òµ"
+            "YOName": "æœåŠ¡ä¸ä¸“ä¸š"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "Î´ÄÜÒ»´ÎĞÔ¸æÖª"
+            "YOName": "æœªèƒ½ä¸€æ¬¡æ€§å‘ŠçŸ¥"
           },
           {
             "PK_YOID": "",
             "InputType": 0,
             "IsUserInput": true,
-            "Prompt": "ÆäËûÎÊÌâÃèÊö",
-            "YOName": "ÆäËüÎÊÌâ"
+            "Prompt": "å…¶ä»–é—®é¢˜æè¿°",
+            "YOName": "å…¶å®ƒé—®é¢˜"
           }
         ]
       },
@@ -618,7 +618,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate2.png",
-        "OName": "Ò»°ã",
+        "OName": "ä¸€èˆ¬",
         "IsShowOName": true,
         "IsShowOICO": true,
         "OValue": 2,
@@ -629,38 +629,38 @@
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "µç»°ÄÑ½ÓÍ¨"
+            "YOName": "ç”µè¯éš¾æ¥é€š"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "½ÓÌıÓÃÓï²»¹æ·¶"
+            "YOName": "æ¥å¬ç”¨è¯­ä¸è§„èŒƒ"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "È±·¦»ù´¡·şÎñÒâÊ¶"
+            "YOName": "ç¼ºä¹åŸºç¡€æœåŠ¡æ„è¯†"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "·şÎñ²»×¨Òµ"
+            "YOName": "æœåŠ¡ä¸ä¸“ä¸š"
           },
           {
             "PK_YOID": "",
             "IsUserInput": false,
             "Prompt": "",
-            "YOName": "Î´ÄÜÒ»´ÎĞÔ¸æÖª"
+            "YOName": "æœªèƒ½ä¸€æ¬¡æ€§å‘ŠçŸ¥"
           },
           {
             "PK_YOID": "",
             "InputType": 0,
             "IsUserInput": true,
-            "Prompt": "ÆäËûÎÊÌâÃèÊö",
-            "YOName": "ÆäËüÎÊÌâ"
+            "Prompt": "å…¶ä»–é—®é¢˜æè¿°",
+            "YOName": "å…¶å®ƒé—®é¢˜"
           }
         ]
       },
@@ -668,7 +668,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate3.png",
-        "OName": "ÂúÒâ",
+        "OName": "æ»¡æ„",
         "IsShowOName": true,
         "IsShowOICO": true,
         "OValue": 3,
@@ -680,7 +680,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate4.png",
-        "OName": "·Ç³£ÂúÒâ",
+        "OName": "éå¸¸æ»¡æ„",
         "IsShowOName": true,
         "IsShowOICO": true,
         "OValue": 4,
@@ -692,7 +692,7 @@
         "PK_OID": "",
         "OType": 0,
         "OICO": "https://design.cntadata.com/Resources/img/move/rate5.png",
-        "OName": "²»Çå³ş",
+        "OName": "ä¸æ¸…æ¥š",
         "IsShowOName": true,
         "IsShowOICO": true,
         "OValue": 5,
@@ -706,8 +706,8 @@
   {
     "PK_TID": "",
     "TopicType": 1,
-    "TName": "ÈºÖÚÖ®Éù",
-    "Prompt": "ÄúµÄÒâ¼û»òÕß½¨Òé",
+    "TName": "ç¾¤ä¼—ä¹‹å£°",
+    "Prompt": "æ‚¨çš„æ„è§æˆ–è€…å»ºè®®",
     "IsRequired": false,
     "Option": [],
     "UserValue": ""
@@ -715,8 +715,8 @@
   {
     "PK_TID": "",
     "TopicType": 5,
-    "TName": "ÉÏ´«ÊÓÆµ(Ñ¡Ìî)",
-    "Prompt": "µã»÷ÉÏ´«ÊÓÆµ",
+    "TName": "ä¸Šä¼ è§†é¢‘(é€‰å¡«)",
+    "Prompt": "ç‚¹å‡»ä¸Šä¼ è§†é¢‘",
     "IsRequired": false,
     "Option": [],
     "UserValue": ""
@@ -724,7 +724,7 @@
   {
     "PK_TID": "",
     "TopicType": 3,
-    "TName": "°ìÀíÒµÎñÀàĞÍ",
+    "TName": "åŠç†ä¸šåŠ¡ç±»å‹",
     "Prompt": "",
     "IsRequired": true,
     "Option": [
@@ -732,7 +732,7 @@
         "PK_OID": "",
         "OType": 1,
         "OICO": "",
-        "OName": "¸öÈËÒµÎñ",
+        "OName": "ä¸ªäººä¸šåŠ¡",
         "IsShowOName": true,
         "IsShowOICO": false,
         "OValue": 0,
@@ -744,7 +744,7 @@
         "PK_OID": "",
         "OType": 1,
         "OICO": "",
-        "OName": "ÆóÒµÒµÎñ",
+        "OName": "ä¼ä¸šä¸šåŠ¡",
         "IsShowOName": true,
         "IsShowOICO": false,
         "OValue": 1,
