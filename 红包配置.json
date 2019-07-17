@@ -1,1 +1,11 @@
-﻿
+﻿{
+  "IsSend": true,
+  "MinAmount": 100,
+  "MaxAmount": 150,
+  "ProvideTimeScope": [
+    {
+      "BeginTime": "00:00:00",
+      "EndTime": "23:59:59"
+    }
+  ]
+}
