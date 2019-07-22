@@ -3,7 +3,7 @@
     "PK_TID": "",
     "TopicType": 1,
     "TName": "",
-    "Prompt": "请填写办理事项的名称",
+    "Prompt": "请填写办理事项的名称（必填）",
     "IsRequired": true,
     "Option": [],
     "UserValue": ""
