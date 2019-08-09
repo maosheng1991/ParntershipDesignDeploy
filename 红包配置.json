@@ -1,7 +1,7 @@
 ﻿{
   "IsSend": true,
-  "MinAmount": 500,
-  "MaxAmount": 550,
+  "MinAmount": 100,
+  "MaxAmount": 150,
   "DayCount": 999,
   "ProvideTimeScope": [
     {
